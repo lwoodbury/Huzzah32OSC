@@ -1,3 +1,5 @@
+Blog post here: http://www.dotlib.org/blog/2018/1/16/feather-huzzah-32-osc-esp32
+
 # Huzzah32OSC
 
 The Huzzah32 is great as it has lots of analogue inputs so we can read lots of sensors. It can connect to Wifi and send OSC to a host computer or indeed tablet app. Its easy to programme the same way as an Arduino over USB and has loads of extra capabilities including Bluetooth/BLE:
@@ -25,5 +27,5 @@ Also included is a MaxMSP patch showing how I receive and route the button and f
    below 32, i.e. use A2, A3, A4​, A7, A9 
    https://github.com/espressif/arduino-esp32/issues/102
    
-   Blog post here: http://www.dotlib.org/blog/2018/1/16/feather-huzzah-32-osc-esp32
+
    

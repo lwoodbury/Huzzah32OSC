@@ -24,3 +24,6 @@ Also included is a MaxMSP patch showing how I receive and route the button and f
    ***NB - Currently you can not use WiFi and do an analogRead on any pin
    below 32, i.e. use A2, A3, A4​, A7, A9 
    https://github.com/espressif/arduino-esp32/issues/102
+   
+   Blog post here: http://www.dotlib.org/blog/2018/1/16/feather-huzzah-32-osc-esp32
+   
